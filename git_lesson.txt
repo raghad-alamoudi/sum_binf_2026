@@ -1,3 +1,4 @@
 todays date is 2026-06-08
 yeah just making sure the date is 8th of June 2026
 Samples expected from sequencing core 2013-01-10
+\n\nMaize reference genome version: refgen3
